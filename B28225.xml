@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poems annent the keeping of yule, pro and con. Many people retaining the dreggs of Romish superstition, (especially such things as are grateful to the flesh,) make a presence of keeping the 25th. of December, in commemoration of the nativity of our Blessed Saviour, ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28225</idno><idno type="EEBO-CITATION">99888192</idno>
+  <idno type="VID">201009</idno>
+  <idno type="EEBO-PROQUEST">2248540657</idno>
+  
+            <idno type="STC">Wing P2718B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[4]</idno>
+            <idno type="STC">ESTC R229154</idno>
+            <idno type="PROQUEST">ocm99888192</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888192e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201009)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poems annent the keeping of yule, pro and con. Many people retaining the dreggs of Romish superstition, (especially such things as are grateful to the flesh,) make a presence of keeping the 25th. of December, in commemoration of the nativity of our Blessed Saviour, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christmas --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Holidays --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201009:1"/>
+            <head>POEMS Annent the keeping of YULE, <hi>pro</hi> and <hi>con.</hi>
+            </head>
+            <p>
+               <hi>Many People retaining the Dreggs of Romish Superstition, (especially such things as are grate<g ref="char:EOLhyphen"/>ful to the Flesh,) make a pretence of keeping the</hi> 25th. <hi>of December, in Commemoration of the Nativity of our Blessed Saviour, (not only without any Scripture Precept or Example) but also, do so far abuse the same, that most who make a pretence of Observing it as a Day of Thanksgiving, make it a Day of Rioting and Drunkenness; Wherefore I thought it may not be improper at this time to shew in some measure the ill consequences of such a practice; And while I was Advising, whether I had best only offer some Arguments a<g ref="char:EOLhyphen"/>gainst the Observation of Anniversary Days, or Refute the Arguments made use of to Re<g ref="char:EOLhyphen"/>commend them; I Resolved on the latter, and for that end have inserted a Poem out of</hi> Felthame's Resolves <hi>for the Affirmative, and have annexed one of my own for the Negative, which I hope will be looked on by the unprejudiced Reader as a <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Refutation of the other; But however it be, I suppose none will blame me for Wresting or Mincing of my Antagonists Arguments, as is usual in Debates.</hi>
+            </p>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <hi>SHall Blood and Ruine find a Day</hi>
+                  </l>
+                  <l>
+                     <hi>To Feast and Play?</hi>
+                  </l>
+                  <l>
+                     <hi>Shall we go out in Rage and still</hi>
+                  </l>
+                  <l>
+                     <hi>Rejoice when Brothers, Brothers Kill;</hi>
+                  </l>
+                  <l>
+                     <hi>Shall we each Year the growing State</hi>
+                  </l>
+                  <l>
+                     <hi>Of our great Senate Celebrate?</hi>
+                  </l>
+                  <l>
+                     <hi>Shall Anual Rights, and hightned Mirth</hi>
+                  </l>
+                  <l>
+                     <hi>Frolick each petty Prince's Birth?</hi>
+                  </l>
+                  <l>
+                     <hi>And shall the Lord of Life's blest Day</hi>
+                  </l>
+                  <l>
+                     <hi>Be thrown away?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Dear Day! thy Memory to me,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall precious be,</hi>
+                  </l>
+                  <l>
+                     <hi>Since God at first his Stamp did set,</hi>
+                  </l>
+                  <l>
+                     <hi>And Man till now continued it,</hi>
+                  </l>
+                  <l>
+                     <hi>I'le shew my Joy and Thanks: Suppose,</hi>
+                  </l>
+                  <l>
+                     <hi>That very day no Mortal knows;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet since Just Power does one Command,</hi>
+                  </l>
+                  <l>
+                     <hi>That one to me as well shall stand,</hi>
+                  </l>
+                  <l>
+                     <hi>As Leaving</hi> Aegypt; <hi>which in one,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet was not done.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>No Day since the Creation yet,</hi>
+                  </l>
+                  <l>
+                     <hi>was Grac'd like it;</hi>
+                  </l>
+                  <l>
+                     <hi>Crowded with Miracles it came</hi>
+                  </l>
+                  <l>
+                     <hi>Into the World: The Heavens Proclaim,</hi>
+                  </l>
+                  <l>
+                     <hi>By New Created Light the Thing,</hi>
+                  </l>
+                  <l>
+                     <hi>While th' Host of God descend and Sing,</hi>
+                  </l>
+                  <l>
+                     <hi>The Joy to Shepherds th' Angel brings,</hi>
+                  </l>
+                  <l>
+                     <hi>And a bright Star doth Summond Kings.</hi>
+                  </l>
+                  <l>
+                     <hi>To all Mankind glad Tydings flyes,</hi>
+                  </l>
+                  <l>
+                     <hi>To the Weak and Wise.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>And where the Prince does not forbid,</hi>
+                  </l>
+                  <l>
+                     <hi>The Subject's ty'd,</hi>
+                  </l>
+                  <l>
+                     <hi>T' obey him in Viceroy: So,</hi>
+                  </l>
+                  <l>
+                     <hi>Where God my Father says not No,</hi>
+                  </l>
+                  <l>
+                     <hi>There my Blest Mother his Chaste Spouse</hi>
+                  </l>
+                  <l>
+                     <hi>The Church, as Mistriss rules the House.</hi>
+                  </l>
+                  <l>
+                     <hi>No Steward of a Private Farm</hi>
+                  </l>
+                  <l>
+                     <hi>Shall there my just Obedience Charm.</hi>
+                  </l>
+                  <l>Jews <hi>may reject the Day, but I</hi>
+                  </l>
+                  <l>
+                     <hi>Will</hi> Christian <hi>Dye.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <lg>
+                  <l>WHether Kings may Command a Day</l>
+                  <l>For Sport and Play?</l>
+                  <l>In Mem'ry of the Day th' are Born,</l>
+                  <l>Or day Crowns by them first were worn,</l>
+                  <l>I'le not determine; Yet I say,</l>
+                  <l>Tho' Subjects do those Laws obey,</l>
+                  <l>The Conscience is not touch'd; because</l>
+                  <l>Th' Obedience call'd for by these Laws</l>
+                  <l>Do not to Spiritual matters Reach,</l>
+                  <l>To Pray and Preach.</l>
+               </lg>
+               <lg>
+                  <l>If this Day still has been in Fashon,</l>
+                  <l>Since Christ his Passion,</l>
+                  <l>How comes't to pass 'tis still unknown?</l>
+                  <l>For one may think he would shown</l>
+                  <l>The day, had he thought fit it should</l>
+                  <l>Be keept as now some People would.</l>
+                  <l>The Passover was not by Guess,</l>
+                  <l>All <hi>Israel</hi> had that Law express.</l>
+                  <l>When th' other is as plainly shown</l>
+                  <l>We shall it own.</l>
+               </lg>
+               <lg>
+                  <l>That Day was greatly Grac'd, 'tis true,</l>
+                  <l>What will ensue?</l>
+                  <l>Can any Pow'r on Earth Command</l>
+                  <l>A Holy day in Force to stand?</l>
+                  <l>If one, why not six, ten or more?</l>
+                  <l>Or why not as well Fifeteen Score</l>
+                  <l>As Papists have almost already</l>
+                  <l>Dedicat to their Saints and Lady?</l>
+                  <l>So where God Six of the Sev'n allows?</l>
+                  <l>Scarce two they chuse.</l>
+               </lg>
+               <lg>
+                  <l>Neither a Wife nor Viceroy may</l>
+                  <l>Boldly Gainsay,</l>
+                  <l>Their Prince or Husband's Just Command,</l>
+                  <l>Nor may the Church God's Law Gainstand,</l>
+                  <l>And put Restraints where he puts none,</l>
+                  <l>As 'postatizing <hi>Rome</hi> hath done:</l>
+                  <l>In this Grant once the Church a Span,</l>
+                  <l>She'le take ten Cubits if She can.</l>
+                  <l>To be no more than's Written w<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>Shall me S<gap reason="illegible" resp="#murp" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
